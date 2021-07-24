@@ -72,6 +72,8 @@ http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:-1 group-title="Internasional", Al Quran Al Kareem TV
 https://iptv-production.up.railway.app/api/vidio?id=6852
+#EXTINF:-1 group-title="Internasional", Aljazeera
+https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 group-title="Internasional", Ani Plus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:-1 group-title="Internasional", ATGV 1 Sport
