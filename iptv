@@ -1,135 +1,127 @@
 #EXTM3U
 
-group-title="Nasional"
-
-#EXTINF:-1, ANTV
+#EXTINF:-1 group-title="Nasional", ANTV
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
-#EXTINF:-1, Berita Satu
+#EXTINF:-1 group-title="Nasional", Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1, CNBC Indonesia
+#EXTINF:-1 group-title="Nasional", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1, CNN Indonesia
+#EXTINF:-1 group-title="Nasional", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1, DAAI TV
+#EXTINF:-1 group-title="Nasional", DAAI TV
 http://210.210.155.35/qwr9ew/s/s13/01.m3u8
-#EXTINF:-1, GTV
+#EXTINF:-1 group-title="Nasional", GTV
 https://iptv-production.up.railway.app/api/vidio?id=778
-#EXTINF:-1, Indosiar
+#EXTINF:-1 group-title="Nasional", Indosiar
 
-#EXTINF:-1, I News
+#EXTINF:-1 group-title="Nasional", I News
 https://iptv-production.up.railway.app/api/vidio?id=5409
-#EXTINF:-1, Kompas TV
+#EXTINF:-1 group-title="Nasional", Kompas TV
 https://iptv-production.up.railway.app/api/vidio?id=874
-#EXTINF:-1, Metro TV
+#EXTINF:-1 group-title="Nasional", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-#EXTINF:-1, MNC TV
+#EXTINF:-1 group-title="Nasional", MNC TV
 https://iptv-production.up.railway.app/api/vidio?id=870
-#EXTINF:-1, NET
+#EXTINF:-1 group-title="Nasional", NET
 https://iptv-production.up.railway.app/api/vidio?id=875
-#EXTINF:-1, OChannel
+#EXTINF:-1 group-title="Nasional", OChannel
 https://iptv-production.up.railway.app/api/vidio?id=206
-#EXTINF:-1, RCTI
+#EXTINF:-1 group-title="Nasional", RCTI
 https://iptv-production.up.railway.app/api/vidio?id=665
-#EXTINF:-1, RRI Net
+#EXTINF:-1 group-title="Nasional", RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1, SCTV
+#EXTINF:-1 group-title="Nasional", SCTV
 https://iptv-production.up.railway.app/api/vidio?id=204
-#EXTINF:-1, Trans TV
+#EXTINF:-1 group-title="Nasional", Trans TV
 https://iptv-production.up.railway.app/api/vidio?id=733
-#EXTINF:-1, Trans 7
+#EXTINF:-1 group-title="Nasional", Trans 7
 https://iptv-production.up.railway.app/api/vidio?id=734
-#EXTINF:-1, TV One
+#EXTINF:-1 group-title="Nasional", TV One
 https://iptv-production.up.railway.app/api/dm?id=k2uDgtBgdyXR1AoH4XD
-#EXTINF:-1, TVRI
+#EXTINF:-1 group-title="Nasional", TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
-#EXTINF:-1, TVRI Sport HD
+#EXTINF:-1 group-title="Nasional", TVRI Sport HD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
-
-group-title="Lokal"
-#EXTINF:-1, Ahsan TV
+#EXTINF:-1 group-title="Lokal", Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:-1, Ajwa TV
+#EXTINF:-1 group-title="Lokal", Ajwa TV
 https://iptv-production.up.railway.app/api/vidio?id=7464
-#EXTINF:-1, CTV Banten
+#EXTINF:-1 group-title="Lokal", CTV Banten
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
-#EXTINF:-1, Jakarta Globe
+#EXTINF:-1 group-title="Lokal", Jakarta Globe
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8s
-#EXTINF:-1, JakTV
+#EXTINF:-1 group-title="Lokal", JakTV
 https://iptv-production.up.railway.app/api/vidio?id=5415
-#EXTINF:-1, Jogja TV
+#EXTINF:-1 group-title="Lokal", Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-#EXTINF:-1, MYTV
+#EXTINF:-1 group-title="Lokal", MYTV
 https://iptv-production.up.railway.app/api/vidio?id=6711
-#EXTINF:-1, Nusantara TV
+#EXTINF:-1 group-title="Lokal", Nusantara TV
 https://iptv-production.up.railway.app/api/vidio?id=7432
-#EXTINF:-1, OSHOP
+#EXTINF:-1 group-title="Lokal", OSHOP
 https://iptv-production.up.railway.app/api/vidio?id=6166
-#EXTINF:-1, Reformed 21
+#EXTINF:-1 group-title="Lokal", Reformed 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
-#EXTINF:-1, RTV
+#EXTINF:-1 group-title="Lokal", RTV
 http://210.210.155.35/session/0c55f20a-0998-11ea-875c-b82a72d63267/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1, Tegar TV
+#EXTINF:-1 group-title="Lokal", Tegar TV
 http://wms.klikhost.com/tegartv/live/playlist.m3u8
-#EXTINF:-1, TVKU Semarang
+#EXTINF:-1 group-title="Lokal", TVKU Semarang
 http://103.30.1.14:8080/hls/live.m3u8
 
-group-title="Internasional"
-
-#EXTINF:-1, Al Quran Al Kareem TV
+#EXTINF:-1 group-title="Internasional", Al Quran Al Kareem TV
 https://iptv-production.up.railway.app/api/vidio?id=6852
-#EXTINF:-1, Ani Plus
+#EXTINF:-1 group-title="Internasional", Ani Plus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-#EXTINF:-1, ATGV 1 Sport
+#EXTINF:-1 group-title="Internasional", ATGV 1 Sport
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1, Blue Ant Extreme ID
+#EXTINF:-1 group-title="Internasional", Blue Ant Extreme ID
 http://45.126.83.51/dr9445/h/h15/01.m3u8
-#EXTINF:-1, CGTN Documentary
+#EXTINF:-1 group-title="Internasional", CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1, IKIM TV
+#EXTINF:-1 group-title="Internasional", IKIM TV
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1, K+
+#EXTINF:-1 group-title="Internasional", K+
 http://rr.dens.tv/h/h08/index2.m3u8
-#EXTINF:-1, Madinah TV
+#EXTINF:-1 group-title="Internasional", Madinah TV
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1, Makkah TV
+#EXTINF:-1 group-title="Internasional", Makkah TV
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1, Redbull TV
+#EXTINF:-1 group-title="Internasional", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1, SEA TV
+#EXTINF:-1 group-title="Internasional", SEA TV
 https://iptv-production.up.railway.app/api/vidio?id=7687
-#EXTINF:-1, Thrill
+#EXTINF:-1 group-title="Internasional", Thrill
 http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
 
-group-title="Radio dan Musik"
-
-#EXTINF:-1, 51 Radio TV
+#EXTINF:-1 group-title="Radio dan Musik", 51 Radio TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1, Ardan Radio
+#EXTINF:-1 group-title="Radio dan Musik", Ardan Radio
 https://iptv-production.up.railway.app/api/vidio?id=7184
-#EXTINF:-1, Bahana FM
+#EXTINF:-1 group-title="Radio dan Musik", Bahana FM
 https://iptv-production.up.railway.app/api/vidio?id=7091
-#EXTINF:-1, Delta FM
+#EXTINF:-1 group-title="Radio dan Musik", Delta FM
 https://iptv-production.up.railway.app/api/vidio?id=7092
-#EXTINF:-1, Elshinta
+#EXTINF:-1 group-title="Radio dan Musik", Elshinta
 https://iptv-production.up.railway.app/api/vidio?id=7166
-#EXTINF:-1, Gen FM
+#EXTINF:-1 group-title="Radio dan Musik", Gen FM
 https://iptv-production.up.railway.app/api/vidio?id=7443
-#EXTINF:-1, Geronimo FM
+#EXTINF:-1 group-title="Radio dan Musik", Geronimo FM
 https://iptv-production.up.railway.app/api/vidio?id=7216
-#EXTINF:-1, Hard Rock
+#EXTINF:-1 group-title="Radio dan Musik", Hard Rock
 https://iptv-production.up.railway.app/api/vidio?id=7053
-#EXTINF:-1, I-Radio
+#EXTINF:-1 group-title="Radio dan Musik", I-Radio
 https://iptv-production.up.railway.app/api/vidio?id=7057
-#EXTINF:-1, Jak FM
+#EXTINF:-1 group-title="Radio dan Musik", Jak FM
 https://iptv-production.up.railway.app/api/vidio?id=7449
-#EXTINF:-1, MGT Radio
+#EXTINF:-1 group-title="Radio dan Musik", MGT Radio
 https://iptv-production.up.railway.app/api/vidio?id=7188
-#EXTINF:-1, Musica
+#EXTINF:-1 group-title="Radio dan Musik", Musica
 https://iptv-production.up.railway.app/api/vidio?id=7619
-#EXTINF:-1, Music Top
+#EXTINF:-1 group-title="Radio dan Musik", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
-#EXTINF:-1, One Music
+#EXTINF:-1 group-title="Radio dan Musik", One Music
 http://rtmp.one.by:1300
-#EXTINF:-1, Prambors
+#EXTINF:-1 group-title="Radio dan Musik", Prambors
 https://iptv-production.up.railway.app/api/vidio?id=7004
