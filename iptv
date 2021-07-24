@@ -1,0 +1,135 @@
+#EXTM3U
+
+group-title="Nasional"
+
+#EXTINF:-1, ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+#EXTINF:-1, Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1, CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1, CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1, DAAI TV
+http://210.210.155.35/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1, GTV
+https://iptv-production.up.railway.app/api/vidio?id=778
+#EXTINF:-1, Indosiar
+
+#EXTINF:-1, I News
+https://iptv-production.up.railway.app/api/vidio?id=5409
+#EXTINF:-1, Kompas TV
+https://iptv-production.up.railway.app/api/vidio?id=874
+#EXTINF:-1, Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1, MNC TV
+https://iptv-production.up.railway.app/api/vidio?id=870
+#EXTINF:-1, NET
+https://iptv-production.up.railway.app/api/vidio?id=875
+#EXTINF:-1, OChannel
+https://iptv-production.up.railway.app/api/vidio?id=206
+#EXTINF:-1, RCTI
+https://iptv-production.up.railway.app/api/vidio?id=665
+#EXTINF:-1, RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1, SCTV
+https://iptv-production.up.railway.app/api/vidio?id=204
+#EXTINF:-1, Trans TV
+https://iptv-production.up.railway.app/api/vidio?id=733
+#EXTINF:-1, Trans 7
+https://iptv-production.up.railway.app/api/vidio?id=734
+#EXTINF:-1, TV One
+https://iptv-production.up.railway.app/api/dm?id=k2uDgtBgdyXR1AoH4XD
+#EXTINF:-1, TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
+#EXTINF:-1, TVRI Sport HD
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+
+group-title="Lokal"
+#EXTINF:-1, Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1, Ajwa TV
+https://iptv-production.up.railway.app/api/vidio?id=7464
+#EXTINF:-1, CTV Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1, Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8s
+#EXTINF:-1, JakTV
+https://iptv-production.up.railway.app/api/vidio?id=5415
+#EXTINF:-1, Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1, MYTV
+https://iptv-production.up.railway.app/api/vidio?id=6711
+#EXTINF:-1, Nusantara TV
+https://iptv-production.up.railway.app/api/vidio?id=7432
+#EXTINF:-1, OSHOP
+https://iptv-production.up.railway.app/api/vidio?id=6166
+#EXTINF:-1, Reformed 21
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+#EXTINF:-1, RTV
+http://210.210.155.35/session/0c55f20a-0998-11ea-875c-b82a72d63267/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1, Tegar TV
+http://wms.klikhost.com/tegartv/live/playlist.m3u8
+#EXTINF:-1, TVKU Semarang
+http://103.30.1.14:8080/hls/live.m3u8
+
+group-title="Internasional"
+
+#EXTINF:-1, Al Quran Al Kareem TV
+https://iptv-production.up.railway.app/api/vidio?id=6852
+#EXTINF:-1, Ani Plus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1, ATGV 1 Sport
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1, Blue Ant Extreme ID
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+#EXTINF:-1, CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1, IKIM TV
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1, K+
+http://rr.dens.tv/h/h08/index2.m3u8
+#EXTINF:-1, Madinah TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1, Makkah TV
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1, Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1, SEA TV
+https://iptv-production.up.railway.app/api/vidio?id=7687
+#EXTINF:-1, Thrill
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+
+group-title="Radio dan Musik"
+
+#EXTINF:-1, 51 Radio TV
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1, Ardan Radio
+https://iptv-production.up.railway.app/api/vidio?id=7184
+#EXTINF:-1, Bahana FM
+https://iptv-production.up.railway.app/api/vidio?id=7091
+#EXTINF:-1, Delta FM
+https://iptv-production.up.railway.app/api/vidio?id=7092
+#EXTINF:-1, Elshinta
+https://iptv-production.up.railway.app/api/vidio?id=7166
+#EXTINF:-1, Gen FM
+https://iptv-production.up.railway.app/api/vidio?id=7443
+#EXTINF:-1, Geronimo FM
+https://iptv-production.up.railway.app/api/vidio?id=7216
+#EXTINF:-1, Hard Rock
+https://iptv-production.up.railway.app/api/vidio?id=7053
+#EXTINF:-1, I-Radio
+https://iptv-production.up.railway.app/api/vidio?id=7057
+#EXTINF:-1, Jak FM
+https://iptv-production.up.railway.app/api/vidio?id=7449
+#EXTINF:-1, MGT Radio
+https://iptv-production.up.railway.app/api/vidio?id=7188
+#EXTINF:-1, Musica
+https://iptv-production.up.railway.app/api/vidio?id=7619
+#EXTINF:-1, Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1, One Music
+http://rtmp.one.by:1300
+#EXTINF:-1, Prambors
+https://iptv-production.up.railway.app/api/vidio?id=7004
